@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Interest 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /interests/2020-interests-2
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2021-04-01
 location: "City, Country"
 ---
 
