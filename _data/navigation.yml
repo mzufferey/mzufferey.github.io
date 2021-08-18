@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "about"
-    url: /about.md
+  - title: "About"
+    url: /about/
     
   - title: "CV"
     url: /cv/
