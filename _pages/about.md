@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-#### Information and reading notes related to my research interests
+## Information and reading notes related to my research interests
 
 * (explainable) artificial intelligence
 * biology and (multi-)omics
 * application in cancer
 
-(all details in my <a href="https://mzufferey.github.io/interests/">"Research interests"</a>)
+<span style="font-size:4em;">(all details in my <a href="https://mzufferey.github.io/interests/">"Research interests"</a>)</span>
