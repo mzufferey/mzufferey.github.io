@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Navigating at the interface between biology and explainable artifical intelligence"
+title: "Biology and (explainable) artifical intelligence"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,4 +9,10 @@ redirect_from:
 ---
 
 
-My frontpage	
+#### Information and reading notes related to my research interests
+
+* (explainable) artificial intelligence
+* biology and (multi-)omics
+* application in cancer
+
+(all details in my <a href="https://mzufferey.github.io/interests/">"Research interests"</a>)
