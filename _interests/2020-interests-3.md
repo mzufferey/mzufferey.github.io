@@ -1,11 +1,11 @@
 ---
-title: "Interest 3"
+title: "OMICs"
 collection: interests
-type: "Workshop"
-permalink: /interests/2020-interests-3
-venue: "University 1, Department"
-date: 2021-04-05
-location: "City, Country"
+type: "biology"
+permalink: /interests/2021-interests-3
+venue: ""
+date: 2021-08-21
+location:""
 ---
 
-Some reading notes and information about variational autoencoders <a href="https://mzufferey.github.io/VAEs/">here</a>.
+Some reading notes and information about cancer and OMICs data <a href="https://mzufferey.github.io/OMICs/">here</a>.
