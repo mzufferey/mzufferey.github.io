@@ -2,9 +2,9 @@
 title: "Explainable AI"
 collection: interests
 type: "artificial intelligence"
-permalink: /interests/2021-explainable_AI-interests-2
+permalink: /interests/2020-explainable_AI-interests-2
 venue: ""
-date: 2021-08-20
+date: 2020-08-20
 location:""
 ---
 
