@@ -4,17 +4,8 @@ collection: interests
 type: ""
 permalink: /interests/2023-spring-interests-4
 venue: ""
-date: 2023-08-13
+date: 2023-13-08
 location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Some reading notes and information about variational autoencoders <a href="https://mzufferey.github.io/VAEs/">here</a>.
