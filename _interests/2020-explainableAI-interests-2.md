@@ -2,7 +2,7 @@
 title: "Explainable AI"
 collection: interests
 type: "artificial intelligence"
-permalink: /interests/2020-omics-interests-2
+permalink: /interests/2020-explainableAI-interests-2
 venue: ""
 date: 2020-01-01
 location: ""
