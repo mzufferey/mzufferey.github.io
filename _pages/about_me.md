@@ -1,6 +1,6 @@
 ---
 title: "About me"
-permalink: /
+permalink: /about_me/
 author_profile: false
 redirect_from:
   - /about
@@ -11,5 +11,5 @@ redirect_from:
 I love cactus and Wallis !
 </span>
 
-<img src="images/Escobaria_nelliae.JPG">
+<img src="/images/Escobaria_nelliae.JPG" alt="hi" class="inline"/>
 
