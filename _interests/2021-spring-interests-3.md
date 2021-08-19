@@ -4,7 +4,7 @@ collection: interests
 type: "artificial intelligence"
 permalink: /interests/2021-spring-interests-3
 venue: ""
-date: 2021-08-13
+date: 2021-13-08
 location:""
 ---
 
