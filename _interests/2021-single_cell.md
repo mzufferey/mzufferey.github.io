@@ -2,7 +2,7 @@
 title: "Single-cell"
 collection: interests
 type: "biology"
-permalink: /interests/single_cell
+permalink: /interests/2021-single_cell
 venue: ""
 date: 2021-08-22
 location:""
