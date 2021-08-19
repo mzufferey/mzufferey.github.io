@@ -2,7 +2,7 @@
 title: "OMICs"
 collection: interests
 type: "biology"
-permalink: /interests/2021-interests-3
+permalink: /interests/omics
 venue: ""
 date: 2021-08-21
 location:""
