@@ -1,7 +1,7 @@
 ---
-title: "OMICs"
+title: "Explainable AI"
 collection: interests
-type: "biology"
+type: "artificial intelligence"
 permalink: /interests/2020-omics-interests-2
 venue: ""
 date: 2020-01-01
