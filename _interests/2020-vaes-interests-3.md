@@ -1,8 +1,8 @@
 ---
-title: "Variational autoencoders"
+title: "OMICs"
 collection: interests
 type: "artificial intelligence"
-permalink: /interests/2021-vaes-interests-3
+permalink: /interests/2020-vaes-interests-3
 venue: ""
 date: 2020-08-19
 location: ""
