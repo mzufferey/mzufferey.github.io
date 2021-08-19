@@ -1,7 +1,7 @@
 ---
 title: "Variational autoencoders"
 collection: interests
-type: ""
+type: "artificial intelligence"
 permalink: /interests/2023-spring-interests-4
 venue: ""
 date: 2023-08-13
