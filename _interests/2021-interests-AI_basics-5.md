@@ -2,9 +2,9 @@
 title: "AI basics"
 collection: interests
 type: "artificial intelligence"
-permalink: /interests/2021-AI_basics
+permalink: /interests/2021-interests-AI_basics-5
 venue: ""
-date: 2021-08-22
+date: 2021-08-24
 location:""
 ---
 

@@ -2,7 +2,7 @@
 title: "Variational autoencoders"
 collection: interests
 type: "artificial intelligence"
-permalink: /interests/2021-vaes
+permalink: /interests/2021-interests-vaes-1
 venue: ""
 date: 2021-08-13
 location:""
