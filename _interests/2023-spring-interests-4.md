@@ -2,10 +2,10 @@
 title: "Variational autoencoders"
 collection: interests
 type: ""
-permalink: /interests/2014-spring-interests-1
-venue: "University 1, Department"
+permalink: /interests/2023-spring-interests-4
+venue: ""
 date: 2023-08-13
-location: "City, Country"
+location: ""
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
