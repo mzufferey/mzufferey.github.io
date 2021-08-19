@@ -4,7 +4,7 @@ collection: interests
 type: ""
 permalink: /interests/2014-spring-interests-1
 venue: "University 1, Department"
-date: 2023-01-01
+date: 2023-08-13
 location: "City, Country"
 ---
 
